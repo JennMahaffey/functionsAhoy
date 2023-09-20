@@ -6,7 +6,35 @@ let x = 3
 let y = 10
 
 let z = 4
+let greeting = 'hello';
+let firstName = 'Jennifer';
+let callStatus = 'ringing';
+ 
 
+function double()
+{
+  x = x * 2; 
+}
+
+function triple() {
+  y = y * 3;
+}
+
+function square()
+{
+ z = z * z;
+} 
+function beNice()
+{
+    greeting = 'hello' + firstName;}
+
+function changeName() {
+  firstName = 'Danger';
+
+}
+function hangUp() {
+  callStatus = 'call ended'
+}
 
 /*********************************************************************************************************************
 
