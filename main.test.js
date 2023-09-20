@@ -23,14 +23,14 @@ function square() {
  z = z * z;
 } 
 
-function beNice()
-{
-    greeting = 'hello' + firstName;}
+function beNice() {
+    greeting = 'hello' + firstName;
+  }
 
 function changeName() {
-  firstName = 'Danger';
-
+  firstName = 'Danger'
 }
+
 function hangUp() {
   callStatus = 'call ended'
 }
