@@ -11,8 +11,7 @@ let firstName = 'Jennifer';
 let callStatus = 'ringing';
  
 
-function double()
-{
+function double() {
   x = x * 2; 
 }
 
@@ -20,10 +19,10 @@ function triple() {
   y = y * 3;
 }
 
-function square()
-{
+function square() {
  z = z * z;
 } 
+
 function beNice()
 {
     greeting = 'hello' + firstName;}
